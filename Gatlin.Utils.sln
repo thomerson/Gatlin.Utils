@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gatlin.Utils", "Gatlin.Util
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gatlin.Utils.Mail", "Gatlin.Utils.Mail\Gatlin.Utils.Mail.csproj", "{7C004AF4-B06F-4E2C-86D4-59CE7D24F9C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gatlin.Utils.Encoding", "Gatlin.Utils.Encoding\Gatlin.Utils.Encoding.csproj", "{6D2D1BEE-ACCC-4A2A-A0F2-28B4631954F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7C004AF4-B06F-4E2C-86D4-59CE7D24F9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C004AF4-B06F-4E2C-86D4-59CE7D24F9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C004AF4-B06F-4E2C-86D4-59CE7D24F9C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D2D1BEE-ACCC-4A2A-A0F2-28B4631954F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2D1BEE-ACCC-4A2A-A0F2-28B4631954F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2D1BEE-ACCC-4A2A-A0F2-28B4631954F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2D1BEE-ACCC-4A2A-A0F2-28B4631954F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
